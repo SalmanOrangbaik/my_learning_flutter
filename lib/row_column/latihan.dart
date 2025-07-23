@@ -23,7 +23,7 @@ class Latihan extends StatelessWidget {
                   child: Text(
                     'VALORANT',
                     style: TextStyle(
-                        color: Colors.white,
+                        color: Colors.black,
                         fontSize: 30,
                         fontWeight: FontWeight.bold),
                   ),
